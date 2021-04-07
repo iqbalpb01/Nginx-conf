@@ -1,6 +1,6 @@
 # Nginx-conf
 
-'''server {
+server {
         root /var/www/html;
         index index.php;
         server_name kochi.dev;
@@ -37,4 +37,4 @@ server {
 
 
 }
-'''
+
