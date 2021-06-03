@@ -1,5 +1,5 @@
 # Nginx-conf
-
+# this a test
 server {
         root /var/www/html;
         index index.php;
